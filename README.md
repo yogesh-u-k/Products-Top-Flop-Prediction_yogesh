@@ -1,4 +1,6 @@
-Fashion E-commerce Product Success Prediction
+**Fashion E-commerce Product Success Prediction**
+
+
 Overview
 This repository contains code for a machine learning application developed for a fashion e-commerce company. The application aims to predict the success or failure of potential products based on past data on the company's top and flop products.
 
